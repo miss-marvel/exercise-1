@@ -1,2 +1,0 @@
-branch
-file 3 within folder1
